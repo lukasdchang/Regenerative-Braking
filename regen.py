@@ -38,3 +38,4 @@ if brake_shutoff_valve_state and speed_car > speed_car_threshold and speed_motor
         regen_torqueCMD = regen_torqueCMD_maximum
     else:
         regen_torqueCMD = 0
+
